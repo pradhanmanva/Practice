@@ -47,3 +47,5 @@ if __name__ == "__main__":
     # Invoking Newton Raphson Method
     res = newtonraphson(func, func_, 1)
     print(res)
+
+print("Hey now!")
